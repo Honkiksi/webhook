@@ -1,0 +1,30 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "https://vk.com/school_programmistov",
+				"group_id": "https://vk.com/school_programmistov",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"interval": 30
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/1085869386931384424/r4DBXZFkvv6yEb_5iA_P-JGll28cL4QoyKREPHjC-hBdrFghVNEqyEJc_9p0twFA6Wll"
+				],
+				"username": "VK",
+				"avatar_url": "",
+				"content": "",
+				"color": "#aabbcc",
+				"author": true,
+				"copyright": true,
+				"date": true,
+				"exclude_content": []
+			}
+		}
+	],
+	"version_dont_modify_me": 5
+}
